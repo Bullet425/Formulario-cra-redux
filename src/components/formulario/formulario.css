@@ -1,0 +1,60 @@
+.contenedorFormulario {
+  background-color: #c09d6c;
+  padding: 2rem;
+  border: solid 0.2rem #000;
+  margin: 0 0.8rem;
+}
+
+.tituloFormulario {
+  text-align: center;
+  color: #fff;
+  margin: 0;
+  padding: 0.8rem;
+}
+
+.inputFormulario,
+.textAreaFormulario {
+  box-sizing: border-box;
+  width: 100%;
+  border: none;
+  height: 2rem;
+  margin: 0.5rem 0;
+  border-radius: 0.2rem;
+  padding: 0.2rem;
+}
+
+.textAreaFormulario {
+  height: 4rem;
+}
+
+.inputFormulario:focus,
+.textAreaFormulario:focus {
+  outline: none;
+}
+
+.labels {
+  color: #fff;
+  padding: 0.5rem 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.botonCita {
+  border: solid 0.4rem #fff;
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 0.8rem;
+  width: 100%;
+  cursor: pointer;
+  background-color: #2cc849;
+  color: #fff;
+  transition: 0.5s;
+}
+
+.botonCita:hover {
+  transform: scale(0.95);
+}
+
+.botonCita:focus {
+  outline: none;
+}

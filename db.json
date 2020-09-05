@@ -1,0 +1,36 @@
+{
+  "citas": [
+    {
+      "id": 1,
+      "cliente": "Javier Martinez",
+      "mascota": "Dragon",
+      "fecha": "07-10-2020",
+      "hora": "16:45",
+      "descripcion": "Escupe fuego"
+    },
+    {
+      "id": 2,
+      "cliente": "Ana Laura",
+      "mascota": "Libelula",
+      "fecha": "18-06-2020",
+      "hora": "16:45",
+      "descripcion": "Escupe fuego"
+    },
+    {
+      "id": 3,
+      "cliente": "Jessy Correa",
+      "mascota": "Totodile",
+      "fecha": "02-04-2020",
+      "hora": "16:45",
+      "descripcion": "Escupe fuego"
+    },
+    {
+      "cliente": "Jp",
+      "mascota": "Crater",
+      "fecha": "2020-09-24",
+      "hora": "16:04",
+      "descripcion": "Escupe magma",
+      "id": 4
+    }
+  ]
+}

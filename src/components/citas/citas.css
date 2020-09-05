@@ -1,0 +1,48 @@
+.citasContenedor {
+  padding: 2rem;
+  background-color: #c09d6c;
+  border: solid 0.2rem #000;
+  margin: 0 0.8rem;
+}
+
+.cardContenedor {
+  background-color: #e9dccb;
+  padding: 1.5rem;
+  border-radius: 0.4rem;
+  margin: 1.2rem 0;
+}
+
+.tituloCitas {
+  text-align: center;
+  color: #fff;
+  margin: 0;
+  padding: 0.4rem;
+}
+
+.noCitas {
+  color: #fff;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.botonEliminarCita {
+  width: 100%;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+  background-color: #d25b5b;
+  color: #fff;
+  border: solid #fff 0.2rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.botonEliminarCita:hover {
+  transform: scale(0.95);
+}
+
+.botonEliminarCita:focus {
+  outline: none;
+}
